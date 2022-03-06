@@ -9,5 +9,5 @@ mkdir docker
 cd docker
 git clone https://github.com/dustinwloring1988/portainer
 cd portainer
-docker-compose.yml
+install.sh
 ```
